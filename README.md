@@ -2,16 +2,16 @@
 
 Submitted by: **Somto Nnozuba**
 
-**Name of your app** is an app that... [TODO] 
+**Background_Color App** is an app that lets user input name, university and dream with a button to change the background color to a random one
 
-Time spent: **24** 24 hours spent in total
+Time spent: **12** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
